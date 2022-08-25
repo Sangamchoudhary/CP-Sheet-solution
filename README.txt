@@ -1,3 +1,5 @@
+BACKLOG - DP | Easy - Q1 | Med - Q1,5 
+
 Dynamic Programming
 EASY ---- 3 - Poor desc, 7 - kadane's algo 
 
