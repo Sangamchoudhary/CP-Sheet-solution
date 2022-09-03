@@ -4,11 +4,12 @@ using namespace std;
 typedef long long int ll;
 typedef pair<long long int,long long int> pll;
 #define tpl tuple<ll,ll,ll>
+#define quad tpl<ll,ll,pll>
 #define M416 ios_base::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL);
 #define mod 1000000007
 #define vll vector<ll>
 #define vpl vector<pll>
-#define vtl vector<tuple<ll,ll,ll>>
+#define vtl vector<tpl>
 #define ump(x,y) unordered_map<x,y>
 #define ust(x) unordered_set<x>
 #define pb push_back
@@ -22,20 +23,28 @@ typedef pair<long long int,long long int> pll;
 #define next cout<<endl
 #define maxi(arr) *max_element(all(arr))
 #define mini(arr) *max_element(all(arr))
+int dx[] = {0,0,-1,1,-1,-1,1,1};
+int dy[] = {1,-1,0,0,-1,1,1,-1};
+void print(char val){cout<<val<<" ";}
 void print(ll val){cout<<val<<" ";}
 void print(vector<ll> &arr) {for(auto &i : arr) cout<<i<<" "; next;}
 void print(string str) {cout<<str<<" ";}
+/*
+Hint:- 
+- Read highlighted text 
+- Think of reverse approach
+- Make valid jumps only
+- Greedy, Binary_search
+*/
 // -----------------------------------------------------------------------------------
 
 void solve(){
-    ll n; cin>>n;
-    vll arr(n); inp(arr);
     
 }
  
 int main() {
     M416
-	int t = 1; 
-	// cin>>t;
-	while(t--) solve();
+    int t = 1; 
+    cin>>t;
+    while(t--) solve();
 }
