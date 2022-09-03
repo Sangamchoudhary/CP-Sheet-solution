@@ -1,4 +1,6 @@
-BACKLOG - DP | Easy - Q1 | Med - Q1,5 
+My Key Learnings
+- While giving contest, allot time frame to questions 
+  if you are not able to solve the question within that time frame it's ok dude move on, may be the next one is easier than this one.
 
 Dynamic Programming
 EASY ---- 3 - Poor desc, 7 - kadane's algo 
