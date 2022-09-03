@@ -20,25 +20,28 @@ typedef pair<long long int,long long int> pll;
 #define rep(x,y,z) for(ll x=y;x<z;x++)
 #define rev(x,y,z) for(ll x=y;x>=0;x--)
 #define all(v) v.begin(),v.end()
-#define next cout<<endl
+#define nl cout<<endl
 #define maxi(arr) *max_element(all(arr))
 #define mini(arr) *max_element(all(arr))
 int dx[] = {0,0,-1,1,-1,-1,1,1};
 int dy[] = {1,-1,0,0,-1,1,1,-1};
 void print(char val){cout<<val<<" ";}
 void print(ll val){cout<<val<<" ";}
-void print(vector<ll> &arr) {for(auto &i : arr) cout<<i<<" "; next;}
+void print(vector<ll> &arr) {for(auto &i : arr) cout<<i<<" "; nl;}
 void print(string str) {cout<<str<<" ";}
 /*
 Hint:- 
 - Read highlighted text 
 - Think of reverse approach
 - Make valid jumps only
+- Question is wearing a mask - decode it
 - Greedy, Binary_search
 */
 // -----------------------------------------------------------------------------------
 
 void solve(){
+    ll n; cin>>n;
+    vll a(n); inp(a);
     
 }
  
