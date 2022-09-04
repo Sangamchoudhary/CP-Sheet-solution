@@ -1,4 +1,13 @@
-BACKLOG - DP | Easy - Q1 | Med - Q1,5 
+BACKLOG - 
+DP  
+Easy - Q1 
+Med - 
+1 - ???
+5 - Getting TLE
+6 - digit dp
+7 - ???
+8 - digit dp 
+9 - Dp on Trees
 
 Dynamic Programming
 EASY ---- 3 - Poor desc, 7 - kadane's algo 
