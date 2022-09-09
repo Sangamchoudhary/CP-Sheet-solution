@@ -1,22 +1,9 @@
-<<<<<<< HEAD
 BACKLOG - 
-DP  
-Easy - Q1 
-Med - 
-1 - ???
-5 - Getting TLE
-6 - digit dp
-7 - ???
-8 - digit dp 
-9 - Dp on Trees
-=======
-My Key Learnings
-- While giving contest, allot time frame to questions 
-  if you are not able to solve the question within that time frame it's ok dude move on, may be the next one is easier than this one.
->>>>>>> 16f57b4e3d5f85f714f19b7acaaff57571eb1b31
+Binary search === Med - 2
+DP === Easy - 1,3  === Med - 1, 5, 6, 7, 9
 
-Dynamic Programming
-EASY ---- 3 - Poor desc, 7 - kadane's algo 
+Revision -
+DP === EASY - 7
 
 Pro tips
 
